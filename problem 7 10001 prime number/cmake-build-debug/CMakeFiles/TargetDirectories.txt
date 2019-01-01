@@ -1,0 +1,3 @@
+C:/Users/jfkoo/CLionProjects/Project Euler/problem 7 10001 prime number/cmake-build-debug/CMakeFiles/problem_7_10001_prime_number.dir
+C:/Users/jfkoo/CLionProjects/Project Euler/problem 7 10001 prime number/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jfkoo/CLionProjects/Project Euler/problem 7 10001 prime number/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/jfkoo/CLionProjects/Project Euler/problem 10 summation of primes/cmake-build-debug/CMakeFiles/problem_10_summation_of_primes.dir/embed.manifest"

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jfkoo/CLionProjects/Project Euler/problem 3 largest prime factor/main.cpp
+iostream
+-
+cmath
+-
+vector
+-
+algorithm
+-
+

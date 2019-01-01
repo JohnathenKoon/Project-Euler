@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jfkoo/CLionProjects/Project Euler/problem 4 largest palindrome product/main.cpp
+iostream
+-
+cmath
+-
+string
+-
+

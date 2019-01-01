@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/jfkoo/CLionProjects/Project Euler/problem 5 smallest multiple/cmake-build-debug/CMakeFiles/problem_5_smallest_multiple.dir/embed.manifest"
